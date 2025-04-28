@@ -40,7 +40,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/furia-chatbot.git
+[git clone https://github.com/seu-usuario/furia-chatbot.git](https://github.com/PauloPelisser/Furia-Challenge-1-Experi-ncia-Conversacional-.git)
 Acesse a pasta do projeto:
 
 bash
